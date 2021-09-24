@@ -2,23 +2,22 @@
 
 ## 1. Command line
 
-GFF file located in /scratch/bio373_2020/data/SNPcalling/reference
+GFF file (Ahal.gff) located in `/scratch/bio373_2020/data/SNPcalling/reference`
 
 GFF files contains information on features of a sequence: genes, introns, etc. Take a look and familiarize yourself with the format.
 
 <http://www.ensembl.org/info/website/upload/gff.html>
 
-1. How many lines are in Ahal.gff? Characters?
-2. How many of each type of feature (column 3) are there?
-3. How many CDS’s are there within scaffold_1? Beware! There’s also scaffold_10, scaffold_11, etc
+1. Create symbolic link of this GFF file to your directory.
+2. How many lines are in Ahal.gff? Characters?
+3. How many of each type of feature (column 3) are there?
+4. How many CDS’s are there within scaffold_1? Beware! There’s also scaffold_10, scaffold_11, etc
 
 ### Extra practice
 
 Zip the file and modify your commands to answer the same questions!
 
 ```bash
-$ cp /scratch/bio373_2021/data/SNPcalling/reference/Ahal.gff YOUR_DIRECTORY/
-$ cd YOUR_DIRECTORY
 $ gzip Ahal.gff
 ```
 

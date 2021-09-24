@@ -164,6 +164,7 @@ grep [-civ] "pattern" file(s).txt
 Examples
 
 ```bash
+$ ln -s scratch/bio373_2020/data/SNPcalling/reference/Ahal.gff
 $ grep "CDS" Ahal.gff | less
 $ grep -c "CDS" Ahal.gff
 $ grep -vc "CDS" Ahal.gff
@@ -199,7 +200,7 @@ $ zcat file.txt.gz | cut -f1 -d "_" > newfile.txt
 The `cut` command allows you to extract information from specific columns. Downside: you need to know the number(s) of the column(s) you want. Counting starts at 1 from the left most column.
 
 ```bash
-cut –f [-s]  1,4-6 [-d ","] file.txt
+cut -f [-s]  1,4-6 [-d ","] file.txt
 ```
 
 `-f`: Select fields (columns); Range or comma separated numbers
@@ -209,7 +210,7 @@ cut –f [-s]  1,4-6 [-d ","] file.txt
 Examples
 
 ```bash
-$ cut –f 1,3-5,7 Ahal.gff | less
+$ cut -f 1,3-5,7 Ahal.gff | less
 $ cut -f 1 –s Ahal.gff  | less
 ```
 
