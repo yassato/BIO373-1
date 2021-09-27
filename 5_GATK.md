@@ -73,7 +73,7 @@ This takes ~10 minutes for each sample. Maybe add this to your bash script and g
 
 * * *
 
-## Merge GVCDs
+## Merge GVCFs
 
 Merge GVCFs from multiple samples and create genotype database which will be refered during joint genotyping.
 
