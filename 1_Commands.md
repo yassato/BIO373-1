@@ -154,7 +154,7 @@ $ ln -s /scratch/bio373_2021/data/SNPcalling/reference/Ahal.gff /scratch/bio373_
 ```
 Tips  
 - Push `tab` to show candidate files when your target has a long name.  
-- For long commands, `Ctr + a`: move to the head of the line; `Ctr + e`: move to the end of the line.  
+- For long commands, `Ctrl + a`: move to the head of the line; `Ctrl + e`: move to the end of the line.  
 
 * * *
 
