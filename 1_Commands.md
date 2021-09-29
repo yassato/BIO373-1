@@ -144,6 +144,17 @@ $ cat file3 .txt
 
 * * *
 
+### Save space with symlinks
+
+Often you'll want/need to have a file in directories in several locations. Instead of copying the file everytime, you can create a symbolic link (symlink) to the original file location. This is a critical tip to handle large files in NGS!  
+
+```bash
+$ ln -s /path/to/file.txt targetName.txt
+$ ln -s /scratch/bio373_2021/data/SNPcalling/reference/Ahal.gff /scratch/bio373_2021/YOUR_USERNAME/Ahal.gff 
+```
+
+* * *
+
 ### Pattern grab with `grep`
 
 - Searches for matches to "pattern" in each file
@@ -307,13 +318,3 @@ $ echo "12 10 11 12 12 11" | tr ' ' '\n' | sort | uniq -c
 
 * * *
 
-### Save space with symlinks
-
-Often you'll want/need to have a file in directories in several locations. Instead of copying the file everytime, you can create a symbolic link (symlink) to the original file location.
-
-```bash
-$ ln -s /path/to/file.txt targetName.txt
-$ ln -s /scratch/bio373_2019/SNPcalling/reference/Ahal.gff /srv/kenlab/gwyn/bio373_2019/Ahal.gff 
-```
-
-* * *
