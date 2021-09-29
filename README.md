@@ -6,13 +6,11 @@ All materials are available at <https://github.com/yassato/BIO373-1>
 
 - 1_Commands.md
     The review of the commands.
-- 2_BashScripting.md
-    The tips for bash scripting.
-- 3_Setup.md
+- 2_Setup.md
     How to set up environment on the server for variant calling.
-- 4_Mapping.md
+- 3_Mapping.md
     Read mapping
-- 5_GATK.md
+- 4_GATK.md
     Variant calling
 - X_Excercises.md
 
