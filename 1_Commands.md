@@ -10,7 +10,7 @@ The following commands are to 'interact' with that operating system and do NOT w
  $ ssh your_BFabric_account_name@172.23.30.6
  your_BFabric_account_name@172.23.30.6's password:
  ```
-Forget? Please see how to login the server [here](https://gist.github.com/masaomi/999d1177c00116e61909220c1d40e32e)  
+Forget? Please see how to logon to the server [here](https://gist.github.com/masaomi/999d1177c00116e61909220c1d40e32e)  
 
 ## Unix commands and working with file types common in bioinformatics
 
