@@ -13,6 +13,7 @@ All materials are available at <https://github.com/yassato/BIO373-1>
 - 4_GATK.md  
     Variant calling
 - X_Excercises.md
+    Basic and additional excercises
 
 ## Tentative schedule  
 
