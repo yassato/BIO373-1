@@ -317,3 +317,24 @@ $ echo "12 10 11 12 12 11" | tr ' ' '\n' | sort | uniq -c
 
 * * *
 
+### Variables
+
+    varName=value
+
+- varName stores "value" for the duration of your shell session
+- No spaces around =
+- varName can have letters, numbers and underscores but cannot start with a number
+- Retrieve the value by prepending variable name with $ (ie $varName)
+- $ can be used with curly braces or double quotes to avoid confusion with any following text (ie ${varName})
+- These are super useful at the beginning of a script to store values for arguments that you might want to change when you run the script on different data.
+
+Examples (run in order):
+
+    $ bio373=/sratch/bio373_2020
+    $ workdir=$bio373/data
+    $ echo $workdir
+    $ ls ${workdir}
+    $ test=AAA
+    $ test_var=BBB
+    $ echo $test_var
+    $ echo ${test}_var
