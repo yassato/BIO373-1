@@ -15,3 +15,17 @@ All materials are available at <https://github.com/yassato/BIO373-1>
 - 5_GATK.md
     Variant calling
 - X_Excercises.md
+
+## Tentative schedule  
+
+1. Instruction: Basic commands for file handling
+2. Exercise: gff file handling  
+3. Instruction: Setup files for SNP calling
+4. Exercise: Setup (+ for advanced lerners)  
+5. Instruction: Mapping one sample 
+6. Exercise: Mapping two samples  
+7. Instruction: 
+8. Exercises:
+9. Instruction: Merging and filtering VCF
+10. Exercises: Merging and filtering VCF (+ Exercise 4 & 5 for advanced learners)
+
