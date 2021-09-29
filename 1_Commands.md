@@ -152,6 +152,9 @@ Often you'll want/need to have a file in directories in several locations. Inste
 $ ln -s /path/to/file.txt targetName.txt
 $ ln -s /scratch/bio373_2021/data/SNPcalling/reference/Ahal.gff /scratch/bio373_2021/YOUR_USERNAME/Ahal.gff 
 ```
+Tips  
+- Push `tab` to show candidate files when your target has a long name.  
+- For long commands, `Ctr + a`: move to the head of the line; `Ctr + e`: move to the end of the line.  
 
 * * *
 
