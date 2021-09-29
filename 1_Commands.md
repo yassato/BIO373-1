@@ -144,7 +144,7 @@ $ cat file3 .txt
 
 * * *
 
-### Save space with symlinks
+### Save space with symlinks `ln -s`
 
 Often you'll want/need to have a file in directories in several locations. Instead of copying the file everytime, you can create a symbolic link (symlink) to the original file location. This is a critical tip to handle large files in NGS!  
 
