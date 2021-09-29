@@ -1,5 +1,15 @@
 # Setting up for Variant calling with GATK
 
+## Make project directory
+
+Start from your directory on the server for the course and make a new folder for this exercise:
+
+```bash
+$ ssh your_BFabric_account_name@172.23.30.6
+$ cd /scratch/bio373_2021/YOUR_USERNAME
+$ mkdir VarCall
+```
+
 ## Environment managememt with module system
 
 Here, we'll again use the module system to load the software we want to use.  
@@ -30,15 +40,6 @@ The most common reason things don't work are:
 Make sure you are in the directory you think you are in.  
 `pwd`: tell you which directory you currently are in.
 
-## Make project directory
-
-Start from your directory on the server for the course and make a new folder for this exercise:
-
-```bash
-$ ssh your_BFabric_account_name@172.23.30.6
-$ cd /scratch/bio373_2021/YOUR_USERNAME
-$ mkdir VarCall
-```
 
 ## Set up input by creating symlinks to input files
 
