@@ -1,6 +1,6 @@
 # Basic command line and SNP calling in BIO373
 
-All materials are available at <https://github.com/MoekoOkada/BIO373>
+All materials are available at <https://github.com/yassato/BIO373-1/>
 
 ## Documents
 
