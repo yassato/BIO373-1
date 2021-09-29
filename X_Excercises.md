@@ -21,7 +21,7 @@ Zip the file and modify your commands to answer the same questions!
 $ gzip Ahal.gff
 ```
 
-Answers can be found on the server here: `/scratch/bio373_2021/data/SNPcalling/answers/CommandLineAnswers.txt`
+Answers can be found on the server here: `/scratch/bio373_2021/data/SNPcalling/answers/CommandLine.txt`
 
 * * *
 
