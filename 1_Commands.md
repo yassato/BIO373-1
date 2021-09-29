@@ -175,7 +175,6 @@ grep [-civ] "pattern" file(s).txt
 Examples
 
 ```bash
-$ ln -s /scratch/bio373_2020/data/SNPcalling/reference/Ahal.gff
 $ grep "CDS" Ahal.gff | less
 $ grep -c "CDS" Ahal.gff
 $ grep -vc "CDS" Ahal.gff
