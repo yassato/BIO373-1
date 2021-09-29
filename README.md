@@ -1,7 +1,6 @@
-# Basic command line and SNP calling in BIO373
-test  
-All materials are available at <https://github.com/MoekoOkada/BIO373>
+# Basic command line and SNP calling in BIO373 (30 September PM)
 
+All materials are available at <https://github.com/yassato/BIO373-1>
 
 ## Documents
 
@@ -16,3 +15,7 @@ All materials are available at <https://github.com/MoekoOkada/BIO373>
 - 5_GATK.md
     Variant calling
 - X_Excercises.md
+
+
+## Reference  
+The original is forked from <https://github.com/MoekoOkada/BIO373>  
