@@ -24,8 +24,8 @@ All materials are available at <https://github.com/yassato/BIO373-1>
 4. Exercise: Setup (+ for advanced lerners)  
 5. Instruction: Mapping one sample 
 6. Exercise: Mapping two samples  
-7. Instruction: 
-8. Exercises:
-9. Instruction: Merging and filtering VCF
-10. Exercises: Merging and filtering VCF (+ Exercise 4 & 5 for advanced learners)
+7. Instruction: SNP calling for one sample　(until HaplotypeCaller)
+8. Exercises: SNP calling for two samples
+9. Instruction: Merging and filtering VCFs
+10. Exercises: Merging and filtering VCFs (+ Exercise 4 & 5 for advanced learners)
 
