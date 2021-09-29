@@ -5,15 +5,15 @@ All materials are available at <https://github.com/yassato/BIO373-1>
 ## Documents
 
 - 1_Commands.md  
-    The review of the commands.
+    The review of the commands lines. Used as a reference.    
 - 2_Setup.md  
-    How to set up environment on the server for variant calling.
+    How to set up environment on the server before variant calling.  
 - 3_Mapping.md  
-    Read mapping
+    Mapping reads on a reference genome.  
 - 4_GATK.md  
-    Variant calling
+    Calling SNPs and merging VCFs with GATK4.  
 - X_Excercises.md
-    Basic and additional excercises
+    Basic excercises (1. & 2.); and optional excercises (3.-5.)
 
 ## Tentative schedule  
 
