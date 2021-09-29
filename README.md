@@ -1,5 +1,5 @@
 # Basic command line and SNP calling in BIO373
-
+test  
 All materials are available at <https://github.com/MoekoOkada/BIO373>
 
 
