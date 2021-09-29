@@ -330,7 +330,7 @@ $ echo "12 10 11 12 12 11" | tr ' ' '\n' | sort | uniq -c
 
 Examples (run in order):
 
-    $ bio373=/sratch/bio373_2021
+    $ bio373=/scratch/bio373_2021
     $ workdir=$bio373/data
     $ echo $workdir
     $ ls ${workdir}
