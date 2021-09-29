@@ -2,7 +2,7 @@
 
 ## 1. Command line
 
-GFF file (Ahal.gff) located in `/scratch/bio373_2020/data/SNPcalling/reference`
+GFF file (Ahal.gff) located in `/scratch/bio373_2021/data/SNPcalling/reference`
 
 GFF files contains information on features of a sequence: genes, introns, etc. Take a look and familiarize yourself with the format.
 
