@@ -6,12 +6,11 @@ Some of the content overlaps with previous lectures by Masa and others.
 
 Reminder: our server runs on a Linux operating system.  
 The following commands are to 'interact' with that operating system and do NOT work on Windows. Most will work exactly the same on a Mac.  
-You can see again how to login the server from [here](https://gist.github.com/masaomi/999d1177c00116e61909220c1d40e32e)
-
 ```bash
  $ ssh your_BFabric_account_name@172.23.30.6
  your_BFabric_account_name@172.23.30.6's password:
  ```
+You can see again how to login the server from [here](https://gist.github.com/masaomi/999d1177c00116e61909220c1d40e32e)  
 
 ## Unix commands and working with file types common in bioinformatics
 
